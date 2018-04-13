@@ -10,7 +10,7 @@ See the assessment rubric [here](https://github.com/J-Fo-S/scu-intro-web-prog/bl
 
 Your zipped folder should be structured in the following way
 
-* Assgnt_1_XXXXXXX (folder)
+* [STUDENTID#]_bus_card_assgnt (folder)
     - index.html
     - sketch_01.js
     - sketch_02.js
