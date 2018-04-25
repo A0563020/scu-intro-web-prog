@@ -1,0 +1,89 @@
+html {
+  height:99%;
+  width:99%;
+}
+
+body {
+  height: 99%;
+  width: 99%; 
+  position: absolute;
+  z-index: 1;
+}
+
+#main {
+ min-height: 98%;
+ max-height: 98%;
+ margin: 0px;
+ padding: 0px;
+ display: flex;
+ flex-flow: row;
+ opacity: 0.75; 
+ }
+
+#main > nav {
+ margin: 2%;
+ padding: 2%;
+ border: 10px solid #ffffff;
+ border-radius: 5%;
+ background: #fff;
+ flex: 1 1 0;
+ order: 1;
+ }
+
+#main > article {
+ margin: 2%;
+ padding: 2%;
+ border: 1px solid #cccc33;
+ background: #000;
+ border-radius: 5%;
+ flex: 3 1 0;
+ order: 2;
+ overflow: scroll;
+ }
+
+ #image-main {
+  position:relative; 
+  margin-left:2.5%;
+  margin-top: 1.5%; 
+  max-height: 95%;
+  max-width: 95%;
+  min-height: 95%;
+  min-width: 95%;
+  z-index: 1;
+  } 
+
+ .font {
+  font-family: Consolas, monaco, monospace;
+  text-align: center;
+  font-size: 10;
+  text-indent: 0%;
+  color: #000;
+  }
+
+ .header {
+  text-align: center;
+  color: #000;
+ }
+
+  
+/* Too narrow to support three columns */
+@media all and (max-width: 640px) {
+
+ #main {
+  flex-flow: column;
+  flex-direction: column;
+ }
+
+ #main > article, #main > nav { 
+  order: 0;
+ }
+
+ #main > nav, #main > header {
+  min-height: 50px;
+  max-height: 50px;
+ }
+};
+
+  
+
+
