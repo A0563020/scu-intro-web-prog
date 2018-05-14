@@ -20,3 +20,11 @@ Your zipped folder should be structured in the following way
         - p5.sound.js
 
 
+### Web Layout Assignment Due by May 16th at 11:59 p.m.
+
+See the assessment rubric [here](https://github.com/J-Fo-S/scu-intro-web-prog/blob/master/resources/assignments_rubric.pdf).
+
+[Upload your submission as a .zip file here](https://goo.gl/forms/q3CTblwRMLQKoFLV2) 
+
+Your zipped file MUST be structured exactly as your html and css files and folders are on your computer!
+
