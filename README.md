@@ -28,3 +28,19 @@ See the assessment rubric [here](https://github.com/J-Fo-S/scu-intro-web-prog/bl
 
 Your zipped file MUST be structured exactly as your html and css files and folders are on your computer!
 
+### Pixel_CV Assignment Due by May 24th at 11:59 p.m.
+
+See the assessment rubric [here](https://github.com/J-Fo-S/scu-intro-web-prog/blob/master/resources/assignments_rubric.pdf).
+
+[Upload your submission as a .zip file here](https://goo.gl/forms/dqGBm59lwrE8mMir2) 
+
+Your zipped folder should be structured in the following way
+
+* [STUDENTID#]_pixel_cv_assgnt (folder)
+    - index.html
+    - sketch.js
+    - libraries (folder)
+        - p5.js
+        - p5.dom.js
+        - p5.sound.js
+
