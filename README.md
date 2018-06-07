@@ -44,3 +44,16 @@ Your zipped folder should be structured in the following way
         - p5.dom.js
         - p5.sound.js
 
+### Final Website Requirements Due by June 21st at 11:59 p.m.
+
+See Session 10 wiki for the additional requirement of the ```<iframe>```
+
+Also, I have realized I did not write a deadline for the creation of your static website. Thus, for those who have still not created the website, there is no penalty as long as all requirements are online by June 21st. Your final website must contain the following working pages and elements:
+
+- home page
+- about/bio page
+- cv/portfolio page
+- p5.js program page
+
+When all is online and working, [submit your website address and student ID# for credit](https://goo.gl/forms/6kuSyr31kWwWJSaA3)
+    
